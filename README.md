@@ -46,3 +46,5 @@ Notes
 =====
 
 This code was adapted from https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt and tests from https://github.com/amckinnell/Gilded-Rose-Ruby/blob/master/spec/gilded_rose_spec.rb.
+
+Refactoring approach as suggested by [Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE).
