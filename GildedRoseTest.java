@@ -241,7 +241,7 @@ public class GildedRoseTest {
   }
 
   /* Conjured Mana */
-  /* Our job is to add this functionality!!
+  /* Our job is to add this functionality!! */
   @Test
   public void updatesConjuredManaBeforeSellDate() {
     GildedRose rose = new GildedRose("Conjured Mana Cake", 5, 10);
@@ -295,5 +295,4 @@ public class GildedRoseTest {
     assertEquals(rose.getDaysRemaining(), -11);
     assertEquals(rose.getQuality(), 0);
   }
-  */
 }
